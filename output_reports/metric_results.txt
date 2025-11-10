@@ -1,0 +1,1251 @@
+======================================================================
+NETWORK PERFORMANCE METRICS
+======================================================================
+Generated on: 2025-11-09 15:28:10.385421
+----------------------------------------------------------------------
+SRC    DST    HOPS OSPF_COST PY_DELAY(ms)  PT_DELAY(ms)  %ERR_DELAY PY_TPUT(Mbps)  PT_TPUT(Mbps)  %ERR_TPUT 
+--------------------------------------------------------------------------------------------------------------------------------------------
+R0     R1        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R0     R10       4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R0     R11       5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R0     R2        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R0     R3        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R0     R4        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R0     R5        6       384       66.1321 N/A           N/A                  1.22 N/A            N/A       
+R0     R6        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R0     R7        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R0     R8        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R0     R9        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R1     R0        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R1     R10       3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R1     R11       4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R1     R2        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R1     R3        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R1     R4        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R1     R5        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R1     R6        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R1     R7        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R1     R8        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R1     R9        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R10    R0        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R10    R1        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R10    R11       1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R10    R2        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R10    R3        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R10    R4        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R10    R5        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R10    R6        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R10    R7        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R10    R8        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R10    R9        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R11    R0        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R11    R1        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R11    R10       1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R11    R2        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R11    R3        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R11    R4        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R11    R5        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R11    R6        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R11    R7        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R11    R8        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R11    R9        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R2     R0        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R2     R1        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R2     R10       3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R2     R11       4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R2     R3        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R2     R4        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R2     R5        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R2     R6        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R2     R7        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R2     R8        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R2     R9        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R3     R0        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R3     R1        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R3     R10       2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R3     R11       3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R3     R2        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R3     R4        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R3     R5        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R3     R6        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R3     R7        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R3     R8        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R3     R9        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R4     R0        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R4     R1        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R4     R10       1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R4     R11       2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R4     R2        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R4     R3        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R4     R5        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R4     R6        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R4     R7        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R4     R8        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R4     R9        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R5     R0        6       384       66.1321 N/A           N/A                  1.22 N/A            N/A       
+R5     R1        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R5     R10       2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R5     R11       1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R5     R2        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R5     R3        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R5     R4        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R5     R6        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R5     R7        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R5     R8        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R5     R9        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R6     R0        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R6     R1        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R6     R10       3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R6     R11       4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R6     R2        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R6     R3        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R6     R4        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R6     R5        5       320       55.1101 N/A           N/A                  1.22 N/A            N/A       
+R6     R7        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R6     R8        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R6     R9        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R7     R0        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R7     R1        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R7     R10       2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R7     R11       3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R7     R2        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R7     R3        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R7     R4        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R7     R5        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R7     R6        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R7     R8        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R7     R9        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R8     R0        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R8     R1        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R8     R10       2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R8     R11       3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R8     R2        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R8     R3        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R8     R4        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R8     R5        4       256       44.0881 N/A           N/A                  1.22 N/A            N/A       
+R8     R6        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R8     R7        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R8     R9        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R9     R0        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R9     R1        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R9     R10       1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R9     R11       2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R9     R2        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R9     R3        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R9     R4        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R9     R5        3       192       33.0661 N/A           N/A                  1.22 N/A            N/A       
+R9     R6        2       128       22.0440 N/A           N/A                  1.22 N/A            N/A       
+R9     R7        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+R9     R8        1        64       11.0220 N/A           N/A                  1.22 N/A            N/A       
+
+======================================================================
+Full details saved. See per-route breakdown below.
+
+
+======================================================================
+METRICS FROM R0
+======================================================================
+
+Route: R0 -> R1
+  Path: R0 -> R6 -> R7 -> R1
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R10
+  Path: R0 -> R6 -> R7 -> R9 -> R10
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R11
+  Path: R0 -> R6 -> R7 -> R9 -> R10 -> R11
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R2
+  Path: R0 -> R6 -> R7 -> R8 -> R2
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R3
+  Path: R0 -> R6 -> R7 -> R9 -> R3
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R4
+  Path: R0 -> R6 -> R7 -> R9 -> R10 -> R4
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R5
+  Path: R0 -> R6 -> R7 -> R9 -> R10 -> R11 -> R5
+  Hops: 6
+  OSPF Cost (sum of link costs): 384
+  Delay (ms): total=66.1321, prop=1.5, tx=46.6321, proc=6.0, queue=12.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R6
+  Path: R0 -> R6
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R7
+  Path: R0 -> R6 -> R7
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R8
+  Path: R0 -> R6 -> R7 -> R8
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R0 -> R9
+  Path: R0 -> R6 -> R7 -> R9
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R1
+======================================================================
+
+Route: R1 -> R0
+  Path: R1 -> R7 -> R6 -> R0
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R10
+  Path: R1 -> R7 -> R9 -> R10
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R11
+  Path: R1 -> R7 -> R9 -> R10 -> R11
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R2
+  Path: R1 -> R7 -> R8 -> R2
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R3
+  Path: R1 -> R7 -> R9 -> R3
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R4
+  Path: R1 -> R7 -> R9 -> R10 -> R4
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R5
+  Path: R1 -> R7 -> R9 -> R10 -> R11 -> R5
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R6
+  Path: R1 -> R7 -> R6
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R7
+  Path: R1 -> R7
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R8
+  Path: R1 -> R7 -> R8
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R1 -> R9
+  Path: R1 -> R7 -> R9
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R10
+======================================================================
+
+Route: R10 -> R0
+  Path: R10 -> R9 -> R7 -> R6 -> R0
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R1
+  Path: R10 -> R9 -> R7 -> R1
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R11
+  Path: R10 -> R11
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R2
+  Path: R10 -> R9 -> R8 -> R2
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R3
+  Path: R10 -> R9 -> R3
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R4
+  Path: R10 -> R4
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R5
+  Path: R10 -> R11 -> R5
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R6
+  Path: R10 -> R9 -> R7 -> R6
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R7
+  Path: R10 -> R9 -> R7
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R8
+  Path: R10 -> R9 -> R8
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R10 -> R9
+  Path: R10 -> R9
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R11
+======================================================================
+
+Route: R11 -> R0
+  Path: R11 -> R10 -> R9 -> R7 -> R6 -> R0
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R1
+  Path: R11 -> R10 -> R9 -> R7 -> R1
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R10
+  Path: R11 -> R10
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R2
+  Path: R11 -> R10 -> R9 -> R8 -> R2
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R3
+  Path: R11 -> R10 -> R9 -> R3
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R4
+  Path: R11 -> R10 -> R4
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R5
+  Path: R11 -> R5
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R6
+  Path: R11 -> R10 -> R9 -> R7 -> R6
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R7
+  Path: R11 -> R10 -> R9 -> R7
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R8
+  Path: R11 -> R10 -> R9 -> R8
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R11 -> R9
+  Path: R11 -> R10 -> R9
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R2
+======================================================================
+
+Route: R2 -> R0
+  Path: R2 -> R8 -> R7 -> R6 -> R0
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R1
+  Path: R2 -> R8 -> R7 -> R1
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R10
+  Path: R2 -> R8 -> R9 -> R10
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R11
+  Path: R2 -> R8 -> R9 -> R10 -> R11
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R3
+  Path: R2 -> R8 -> R9 -> R3
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R4
+  Path: R2 -> R8 -> R9 -> R10 -> R4
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R5
+  Path: R2 -> R8 -> R9 -> R10 -> R11 -> R5
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R6
+  Path: R2 -> R8 -> R7 -> R6
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R7
+  Path: R2 -> R8 -> R7
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R8
+  Path: R2 -> R8
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R2 -> R9
+  Path: R2 -> R8 -> R9
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R3
+======================================================================
+
+Route: R3 -> R0
+  Path: R3 -> R9 -> R7 -> R6 -> R0
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R1
+  Path: R3 -> R9 -> R7 -> R1
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R10
+  Path: R3 -> R9 -> R10
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R11
+  Path: R3 -> R9 -> R10 -> R11
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R2
+  Path: R3 -> R9 -> R8 -> R2
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R4
+  Path: R3 -> R9 -> R10 -> R4
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R5
+  Path: R3 -> R9 -> R10 -> R11 -> R5
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R6
+  Path: R3 -> R9 -> R7 -> R6
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R7
+  Path: R3 -> R9 -> R7
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R8
+  Path: R3 -> R9 -> R8
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R3 -> R9
+  Path: R3 -> R9
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R4
+======================================================================
+
+Route: R4 -> R0
+  Path: R4 -> R10 -> R9 -> R7 -> R6 -> R0
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R1
+  Path: R4 -> R10 -> R9 -> R7 -> R1
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R10
+  Path: R4 -> R10
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R11
+  Path: R4 -> R10 -> R11
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R2
+  Path: R4 -> R10 -> R9 -> R8 -> R2
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R3
+  Path: R4 -> R10 -> R9 -> R3
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R5
+  Path: R4 -> R10 -> R11 -> R5
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R6
+  Path: R4 -> R10 -> R9 -> R7 -> R6
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R7
+  Path: R4 -> R10 -> R9 -> R7
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R8
+  Path: R4 -> R10 -> R9 -> R8
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R4 -> R9
+  Path: R4 -> R10 -> R9
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R5
+======================================================================
+
+Route: R5 -> R0
+  Path: R5 -> R11 -> R10 -> R9 -> R7 -> R6 -> R0
+  Hops: 6
+  OSPF Cost (sum of link costs): 384
+  Delay (ms): total=66.1321, prop=1.5, tx=46.6321, proc=6.0, queue=12.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R1
+  Path: R5 -> R11 -> R10 -> R9 -> R7 -> R1
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R10
+  Path: R5 -> R11 -> R10
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R11
+  Path: R5 -> R11
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R2
+  Path: R5 -> R11 -> R10 -> R9 -> R8 -> R2
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R3
+  Path: R5 -> R11 -> R10 -> R9 -> R3
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R4
+  Path: R5 -> R11 -> R10 -> R4
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R6
+  Path: R5 -> R11 -> R10 -> R9 -> R7 -> R6
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R7
+  Path: R5 -> R11 -> R10 -> R9 -> R7
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R8
+  Path: R5 -> R11 -> R10 -> R9 -> R8
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R5 -> R9
+  Path: R5 -> R11 -> R10 -> R9
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R6
+======================================================================
+
+Route: R6 -> R0
+  Path: R6 -> R0
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R1
+  Path: R6 -> R7 -> R1
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R10
+  Path: R6 -> R7 -> R9 -> R10
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R11
+  Path: R6 -> R7 -> R9 -> R10 -> R11
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R2
+  Path: R6 -> R7 -> R8 -> R2
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R3
+  Path: R6 -> R7 -> R9 -> R3
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R4
+  Path: R6 -> R7 -> R9 -> R10 -> R4
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R5
+  Path: R6 -> R7 -> R9 -> R10 -> R11 -> R5
+  Hops: 5
+  OSPF Cost (sum of link costs): 320
+  Delay (ms): total=55.1101, prop=1.25, tx=38.8601, proc=5.0, queue=10.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R7
+  Path: R6 -> R7
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R8
+  Path: R6 -> R7 -> R8
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R6 -> R9
+  Path: R6 -> R7 -> R9
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R7
+======================================================================
+
+Route: R7 -> R0
+  Path: R7 -> R6 -> R0
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R1
+  Path: R7 -> R1
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R10
+  Path: R7 -> R9 -> R10
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R11
+  Path: R7 -> R9 -> R10 -> R11
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R2
+  Path: R7 -> R8 -> R2
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R3
+  Path: R7 -> R9 -> R3
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R4
+  Path: R7 -> R9 -> R10 -> R4
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R5
+  Path: R7 -> R9 -> R10 -> R11 -> R5
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R6
+  Path: R7 -> R6
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R8
+  Path: R7 -> R8
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R7 -> R9
+  Path: R7 -> R9
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R8
+======================================================================
+
+Route: R8 -> R0
+  Path: R8 -> R7 -> R6 -> R0
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R1
+  Path: R8 -> R7 -> R1
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R10
+  Path: R8 -> R9 -> R10
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R11
+  Path: R8 -> R9 -> R10 -> R11
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R2
+  Path: R8 -> R2
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R3
+  Path: R8 -> R9 -> R3
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R4
+  Path: R8 -> R9 -> R10 -> R4
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R5
+  Path: R8 -> R9 -> R10 -> R11 -> R5
+  Hops: 4
+  OSPF Cost (sum of link costs): 256
+  Delay (ms): total=44.0881, prop=1.0, tx=31.0881, proc=4.0, queue=8.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R6
+  Path: R8 -> R7 -> R6
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R7
+  Path: R8 -> R7
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R8 -> R9
+  Path: R8 -> R9
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+METRICS FROM R9
+======================================================================
+
+Route: R9 -> R0
+  Path: R9 -> R7 -> R6 -> R0
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R1
+  Path: R9 -> R7 -> R1
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R10
+  Path: R9 -> R10
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R11
+  Path: R9 -> R10 -> R11
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R2
+  Path: R9 -> R8 -> R2
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R3
+  Path: R9 -> R3
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R4
+  Path: R9 -> R10 -> R4
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R5
+  Path: R9 -> R10 -> R11 -> R5
+  Hops: 3
+  OSPF Cost (sum of link costs): 192
+  Delay (ms): total=33.0661, prop=0.75, tx=23.3161, proc=3.0, queue=6.0
+  Path link bandwidths (Mbps): [1.544, 1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R6
+  Path: R9 -> R7 -> R6
+  Hops: 2
+  OSPF Cost (sum of link costs): 128
+  Delay (ms): total=22.044, prop=0.5, tx=15.544, proc=2.0, queue=4.0
+  Path link bandwidths (Mbps): [1.544, 1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R7
+  Path: R9 -> R7
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+Route: R9 -> R8
+  Path: R9 -> R8
+  Hops: 1
+  OSPF Cost (sum of link costs): 64
+  Delay (ms): total=11.022, prop=0.25, tx=7.772, proc=1.0, queue=2.0
+  Path link bandwidths (Mbps): [1.544]
+  Python Throughput (Mbps): 1.22
+
+======================================================================
+Metrics saved to: output_reports\metric_results.txt
+======================================================================
